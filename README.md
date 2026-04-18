@@ -1,4 +1,4 @@
-# Mohamed Abubakkar Siddik
+# Mohamed Abubakkar Siddik A
 
 Cybersecurity Analyst specializing in **Web, API, and Mobile Application Security (VAPT)** with hands-on experience in real-world vulnerability discovery and exploitation.
 
